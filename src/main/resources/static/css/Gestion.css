@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+body{
+	background-color: rgb(3, 24, 69);
+    font-family: Arial; 
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+table {
+	margin: 0 auto;
+	}
+	
